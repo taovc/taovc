@@ -14,7 +14,7 @@
 ## Github Stats
 
 ![taovc's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=taovc&layout=compact&theme=vision-friendly-dark&exclude_repo=Security_Pool)
-[![我的 GitHub 数据](https://github-readme-stats.vercel.app/api?username=GitHubtaovc)]().
+![我的 GitHub 数据](https://github-readme-stats.vercel.app/api?username=GitHubtaovc)
 
 ## Contact
 
