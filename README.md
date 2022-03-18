@@ -11,16 +11,10 @@
 <code><img src="https://www.freepngimg.com/download/logo/69421-logo-distribution-ubuntu-unix-linux-hd-image-free-png.png" height="30"></code>
 <code><img src="https://logo-marque.com/wp-content/uploads/2021/03/Docker-Symbole.jpg" height="30"></code>
 
-## Github Stats
-
-![taovc's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=taovc&layout=compact&theme=vision-friendly-dark&exclude_repo=Security_Pool)
-![我的 GitHub 数据](https://github-readme-stats.vercel.app/api?username=GitHubtaovc)
+| Github stats | Top Languages |
+| ------------ | ------------- |
+| [![taovc's github stats](https://github-readme-stats.vercel.app/api?username=taovc&show_icons=true&theme=aura_dark)](https://www.linkedin.com/in/tao-weijie-880bab1b8/) | [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=taovc&langs_count=6&theme=aura_dark&layout=compact)](https://github.com/taovc?tab=repositories) |
 
 ## Contact
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/tao-weijie-880bab1b8/)
-
-
-| Github stats | Top Languages |
-| ------------ | ------------- |
-| [![taovc's github stats](https://github-readme-stats.vercel.app/api?username=taovc&show_icons=true&theme=aura_dark)](https://benito.tech) | [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=taovc&langs_count=6&theme=aura_dark&layout=compact)](https://github.com/taovc?tab=repositories) |
