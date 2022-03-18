@@ -14,7 +14,8 @@
 ## Github Stats
 
 ![taovc's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=taovc&layout=compact&theme=vision-friendly-dark&exclude_repo=Security_Pool)
-
+![taovc's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=taovc&layout=compact&theme=vision-friendly-dark&exclude_repo=Security_Pool)
+[![我的 GitHub 数据](https://github-readme-stats.vercel.app/api?username=GitHubtaovc)]()
 ## Contact
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/tao-weijie-880bab1b8/)
