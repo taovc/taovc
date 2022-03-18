@@ -1,7 +1,6 @@
 # Hi there 👋
 
 ![country](https://img.shields.io/badge/🌐%20%20country-France-blue)
-[![GitHub followers](https://img.shields.io/github/followers/taovc.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/taovc?tab=followers)
 
 ## Languages and Tools
 
