@@ -1,6 +1,6 @@
 # Hi there 👋
 
-![country](https://img.shields.io/badge/🌐%20%20country-France-blue)
+<h3 style={{display: "inline"}}>My portfolio : https://www.tao-weijie.com/</h3>
 
 ## Languages and Tools
 
