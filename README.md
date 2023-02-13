@@ -34,7 +34,7 @@
 
 ## Top Languages
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=taovc&count_private=true&langs_count=6&theme=radical&layout=compact)](https://github.com/taovc?tab=repositories" align="center"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=taovc&count_private=true&theme=radical&custom_title=taovc%27s%20Top%20Language%20%28private%20repositories%20are%20not%20included%29&card_width=700" align="center"/>
 </div>
 
 ## Contact
