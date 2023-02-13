@@ -13,9 +13,7 @@
 
 ## Github stats
 
-| Github stats | Top Languages |
-| ------------ | ------------- |
-| [![taovc's github stats](https://github-readme-stats.vercel.app/api?username=taovc&show_icons=true&theme=aura_dark)](https://www.linkedin.com/in/tao-weijie-880bab1b8/) | [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=taovc&langs_count=6&theme=aura_dark&layout=compact)](https://github.com/taovc?tab=repositories) |
+[![taovc's github stats](https://github-readme-stats.vercel.app/api?username=taovc&show_icons=true&theme=aura_dark)](https://www.linkedin.com/in/tao-weijie-880bab1b8/) 
 
 ## Top Languages
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=taovc&langs_count=6&theme=aura_dark&layout=compact)](https://github.com/taovc?tab=repositories) |
