@@ -32,6 +32,8 @@
 <img src="https://github-readme-stats.vercel.app/api?username=taovc&show_icons=true&count_private=true&theme=aura&include_all_commits=true&card_width=700&custom_title=taovc%27s%20Stats%20%28private%20repositories%20are%20not%20included%29" align="center"/>
 </div>
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=taovc)](https://github.com/anuraghazra/github-readme-stats)
+
 ## Top Languages
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=taovc&langs_count=6&theme=aura_dark&layout=compact)](https://github.com/taovc?tab=repositories)
 
