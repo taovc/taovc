@@ -1,31 +1,20 @@
-# Hi there 👋
+### Weijie Tao
 
-<h3 style={{display: "inline"}}>My studio : https://tzstudio.cloud/ </h3>
+Senior full-stack product engineer in Paris. I build the parts of a product that have to be right:
+domain models, contracts, billing, migrations, the audit trail nobody wants until the day they need it.
 
-## Languages and Tools
+Currently lead engineer on a B2B real-estate SaaS platform, built end to end on a 110-entity domain model.
 
+---
 
-<div>
-    <div alt="web programming langages">
-        <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/typescript.svg" width="100" height="100" align="center"/>
-        <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/javascript.svg" width="100" height="100" align="center"/>
-    	<img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/frameworks/react.svg" width="100" height="100" align="center"/>
-    	<img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/frameworks/nodejs.svg" width="100" height="100" align="center"/>
-    	<img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" width="100" height="100" align="center"/>
-    	<img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/databases/postgresql.svg" width="100" height="100" align="center"/>
-    	<img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/others/html.svg" width="100" height="100" align="center"/>
-    	<img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/others/css.svg" width="100" height="100" align="center"/>
-        <img src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/f994c418a134b58c4aec11152f6a4a33fa89da26/cloud/docker.svg" width="100" height="100" align="center"/>
-    </div>
-    <div alt="Algorithm and Functional programming">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" width="100" height="100" align="center"/>
-        <img src="https://github.com/isocpp/logos/blob/master/cpp_logo.svg" width="100" height="95" align="center" />
-        <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/bash.svg" width="100" height="90" align="center"/>
-        <img src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/ides/goland.png" width="100" height="90" align="center"/>
-    </div>
+**[PR Cockpit](https://github.com/taovc/pr-cockpit)** — local AI PR workbench.
+Multi-agent code review inside isolated git worktrees, structured findings, and a human gate before
+anything reaches GitHub. TypeScript, Nuxt, Electron. MIT.
 
-</div>
+---
 
-## Contact
+**In production** — TypeScript · Node.js · NestJS · Vue 3 / Nuxt · React / Next.js · PostgreSQL · Prisma · Redis · AWS
 
-[![linkedin](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/tao-weijie-880bab1b8/)
+**Also** — RAG and vector search · LLM agent workflows · Terraform · Docker · Python / Django
+
+[tzstudio.cloud](https://tzstudio.cloud) · [LinkedIn](https://linkedin.com/in/weijie-tao)
