@@ -17,4 +17,4 @@ anything reaches GitHub. TypeScript, Nuxt, Electron. MIT.
 
 **Also** — RAG and vector search · LLM agent workflows · Terraform · Docker · Python / Django
 
-[tzstudio.cloud](https://tzstudio.cloud) · [LinkedIn](https://linkedin.com/in/weijie-tao)
+[tzero.work](https://tzero.work) · [LinkedIn](https://linkedin.com/in/weijie-tao)
