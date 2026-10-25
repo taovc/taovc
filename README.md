@@ -11,10 +11,5 @@ Currently lead engineer on a B2B real-estate SaaS platform, built end to end on 
 Multi-agent code review inside isolated git worktrees, structured findings, and a human gate before
 anything reaches GitHub. TypeScript, Nuxt, Electron. MIT.
 
----
-
-**In production** — TypeScript · Node.js · NestJS · Vue 3 / Nuxt · React / Next.js · PostgreSQL · Prisma · Redis · AWS
-
-**Also** — RAG and vector search · LLM agent workflows · Terraform · Docker · Python / Django
 
 [tzero.work](https://tzero.work) · [LinkedIn](https://linkedin.com/in/weijie-tao)
